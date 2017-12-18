@@ -1,49 +1,49 @@
 {
-  "snacks":{
+  "Ah-producten":{
     "Halfvolle melk":{
-      "soort":" gemengd vlees",
-      "merk":" beckers",
-      "omschrijving":" De bekendste snack van nederland"
+      "soort":" Melk met half vet",
+      "merk":" Ah",
+      "omschrijving":" Frisse smaak, altijd lekker koud!"
     },
-    "kroket":{
-      "soort":" rundvlees",
-      "merk":" kwekkeboom",
-      "omschrijving":" Met een lekker krokant jasje"
+    "Quaker cruesli":{
+      "soort":" Ontbijtgranen",
+      "merk":" Quaker",
+      "omschrijving":" Met lekkere chocolade stukjes."
     },
-    "bitterballen":{
-      "soort":"rundvlees",
-      "merk":"mora",
-      "omschrijving":" Het zijn net kleine mini kroketjes"
+    "Dubbelfris":{
+      "soort":" Frisdrank",
+      "merk":" Dubbelfris",
+      "omschrijving":" Dubbele frisheid."
     },
-    "viandel":{
+    "Perenijsjes":{
+      "soort":" Ijs",
+      "merk":" Ah",
+      "omschrijving":" Lekker in warm weer!"
+    },
+    "Tony Chocolonely":{
+      "soort":" Chocolade",
+      "merk":" Tony Chocolonely",
+      "omschrijving":" Fair trade chocolade."
+    },
+    "Kipfilet":{
       "soort":" kip",
-      "merk":" mora",
-      "omschrijving":" Het lijkt op een frikandel, maar dan krokanter"
-    },
-    "kaassouffle":{
-      "soort":" kaas",
-      "merk":" mora",
-      "omschrijving":" De meest verkochte snack onder de dames"
-    },
-    "kipcorn":{
-      "soort":" kip",
-      "merk":" mora",
+      "merk":" Ah",
       "omschrijving":" Kip het meest veelzijdige stukje..."
     },
-    "kipnuggets":{
-      "soort":" kip",
-      "merk":" mora",
-      "omschrijving":" Ook verkrijgbaar per 20!!"
+    "Borrelnootjes":{
+      "soort":" Snack",
+      "merk":" Duvis",
+      "omschrijving":" Bekendste snack van Nederland"
     },
-    "bamischijf":{
-      "soort":" rundvlees",
-      "merk":" mora",
-      "omschrijving":" Lekker pittig en een aanrader met satesaus"
+    "Vanille Vla":{
+      "soort":" Toetje",
+      "merk":" Ah",
+      "omschrijving":" Vla met vleugje vanille."
     },
-    "nasischijf":{
-      "soort":" rundvlees",
-      "merk":" mora",
-      "omschrijving":" iets minder pittig als zijn broer de bamischijf, maar zeker net zo lekker"
+    "Zak aardappelen":{
+      "soort":" Aardappelen",
+      "merk":" Ah",
+      "omschrijving":" Heel erg kruimelig!"
     }
   }
 }
