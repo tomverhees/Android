@@ -1,0 +1,49 @@
+{
+  "snacks":{
+    "Halfvolle melk":{
+      "soort":" gemengd vlees",
+      "merk":" beckers",
+      "omschrijving":" De bekendste snack van nederland"
+    },
+    "kroket":{
+      "soort":" rundvlees",
+      "merk":" kwekkeboom",
+      "omschrijving":" Met een lekker krokant jasje"
+    },
+    "bitterballen":{
+      "soort":"rundvlees",
+      "merk":"mora",
+      "omschrijving":" Het zijn net kleine mini kroketjes"
+    },
+    "viandel":{
+      "soort":" kip",
+      "merk":" mora",
+      "omschrijving":" Het lijkt op een frikandel, maar dan krokanter"
+    },
+    "kaassouffle":{
+      "soort":" kaas",
+      "merk":" mora",
+      "omschrijving":" De meest verkochte snack onder de dames"
+    },
+    "kipcorn":{
+      "soort":" kip",
+      "merk":" mora",
+      "omschrijving":" Kip het meest veelzijdige stukje..."
+    },
+    "kipnuggets":{
+      "soort":" kip",
+      "merk":" mora",
+      "omschrijving":" Ook verkrijgbaar per 20!!"
+    },
+    "bamischijf":{
+      "soort":" rundvlees",
+      "merk":" mora",
+      "omschrijving":" Lekker pittig en een aanrader met satesaus"
+    },
+    "nasischijf":{
+      "soort":" rundvlees",
+      "merk":" mora",
+      "omschrijving":" iets minder pittig als zijn broer de bamischijf, maar zeker net zo lekker"
+    }
+  }
+}
